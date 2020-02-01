@@ -1,13 +1,14 @@
 .page-header {
-    background-color: #E63462;
+    background-color: #ffffff;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
-    font-size: 36pt;
+    color: #db1986;
+    font-size: 46pt;
     text-decoration: none;
+
 }
 
 .content {
@@ -15,7 +16,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'PT Serif', bold, cursive;
 }
 
 .date {
@@ -39,8 +40,75 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    font-family: 'PT Serif';
 }
 
 .post h2 a, .post h2 a:visited {
     color: #000000;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
+
+.menu-main_menu-container ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00000;
+}
+
+.menu-main_menu-container li {
+  float: left;
+}
+
+.menu-main_menu-container a {
+  float: left;
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu-main_menu-container li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+.menu-main_menu-container a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.menu-main_menu-container .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .menu-links {display: none;}
+  .menu-main_menu-container a.icon {
+    float: right;
+    display: block;
+    top: 0;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .menu-main_menu-container.responsive {position: relative;}
+  .menu-main_menu-container.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .menu-main_menu-container.responsive a  {
+    float: none;
+    display: block;
+    text-align: left;
+  }
 }
