@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd58e573-0a58-40b0-9033-b88c1c42485d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/static/css/blog.css" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,8 +96,8 @@
       <file leaf-file-name="blog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -173,8 +172,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="198" />
-    <option name="y" value="29" />
+    <option name="x" value="142" />
+    <option name="y" value="23" />
     <option name="width" value="967" />
     <option name="height" value="733" />
   </component>
@@ -479,7 +478,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="198" y="29" width="967" height="733" extended-state="0" />
+    <frame x="142" y="23" width="967" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2523268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -812,8 +811,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="270">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
           <folding />
         </state>
       </provider>
