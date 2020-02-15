@@ -9,6 +9,7 @@
     font-size: 46pt;
     text-decoration: none;
     text-align: left;
+    font-weight: 300;
 
 }
 
@@ -50,7 +51,6 @@ h1, h2, h3, h4 {
 .post {
     margin-bottom: 70px;
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
     font-size: 16px;
     line-height: 1.8;
 }
